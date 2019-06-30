@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5cf8a473-a986-49e1-a370-b626d6e90bfd" name="52" url="http://fortressgate.ucweb.local">
+        <fileTransfer host="fortressgate.ucweb.local" port="2001" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="2001" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a27ec509-ebf3-45a2-bc17-ec67107d4410" name="154 (project level)" url="http://gdfort.ucweb.local">
+        <fileTransfer host="gdfort.ucweb.local" port="2001" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="2001" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2120368a-c842-45c0-bda8-44e9b7282bcd" name="40" url="http://gdfort.uc.cn">
+        <fileTransfer host="gdfort.uc.cn" port="2001" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="2001" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7d3a33cf-b61d-4ecd-bf95-491dc62a5c18" name="66" url="http://gdfort.uc.cn">
+        <fileTransfer host="gdfort.uc.cn" port="2001" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="2001" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
